@@ -88,7 +88,7 @@ Method: Incentive program ($5 credit for switching)
 Long-term Monitoring: Implement automated reminders for medium-risk customers
 
 Expected Impact: Prevent escalation to high-risk
-
+```
 
 
 📊 Results & Impact

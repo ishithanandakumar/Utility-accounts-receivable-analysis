@@ -91,39 +91,39 @@ Expected Impact: Prevent escalation to high-risk
 ```
 
 
-📊 Results & Impact
+ ### 📊 Results & Impact
 
 Total Recoverable Amount: $29,484 (55% of current late payments)
 Improved Collection Rate: From 63.47% to projected 80%
 Reduced Average Days Late: From 3.5 to projected 2 days
 ROI: 40% reduction in late payments through billing method optimization
 
-🚀 How to Run
+### 🚀 How to Run
 Prerequisites
 
 Snowflake account with appropriate permissions
 Tableau Desktop (2021.4 or later)
 CSV data file
 
-Setup Instructions
+### Setup Instructions
 
 Execute SQL scripts in order (01-06) in Snowflake
 Load the CSV data into ACCOUNTS_RECEIVABLE table
 Connect Tableau to Snowflake using the created views
 Open the Tableau workbook to explore dashboards
 
-📝 Future Enhancements
+ ### 📝 Future Enhancements
 
  Implement predictive ML model for payment likelihood
  Add seasonal trend analysis
  Create automated alerting system for high-risk accounts
  Develop customer portal for self-service payment plans
 
-👤 Author
+### 👤 Author
 Ishitha Nanda Kumar
 
-Tableau Dashboard in Tableau Public: https://public.tableau.com/views/OptimizingUtilityAccountsReceivableACashFlowAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-LinkedIn: https://www.linkedin.com/in/-nandakumarishitha/
+# Tableau Dashboard in Tableau Public: https://public.tableau.com/views/OptimizingUtilityAccountsReceivableACashFlowAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+# LinkedIn: https://www.linkedin.com/in/-nandakumarishitha/
 
 📄 License
 This project is part of a portfolio for educational and demonstration purposes.

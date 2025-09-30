@@ -20,17 +20,18 @@ A data analytics project analyzing accounts receivable data to identify and solv
 - **Analysis**: Customer segmentation, risk scoring, trend analysis
 
 ## 📁 Project Structure
+
 ├── sql/
-│   ├── 01_setup.sql           # Database, warehouse, schema creation
-│   ├── 02_data_model.sql      # Table creation and data loading
-│   ├── 03_exploratory.sql     # Initial data exploration queries
-│   ├── 04_risk_analysis.sql   # Customer risk categorization
-│   ├── 05_billing_analysis.sql # Paper vs Electronic analysis
-│   └── 06_dashboard_views.sql  # Views for Tableau dashboards
+│   ├── 01_setup.sql                 # Database, warehouse, schema creation
+│   ├── 02_data_model.sql            # Table creation and data loading
+│   ├── 03_exploratory.sql           # Initial data exploration queries
+│   ├── 04_risk_analysis.sql         # Customer risk categorization
+│   ├── 05_billing_analysis.sql      # Paper vs Electronic analysis
+│   └── 06_dashboard_views.sql       # Views for Tableau dashboards
 ├── tableau/
-│   └── AR_Dashboard.twbx      # Tableau workbook with 3 dashboards
+│   └── AR_Dashboard.twbx            # Tableau workbook with 3 dashboards
 ├── data/
-│   └── WA_FnUseC_AccountsReceivable.csv # Source data (2,466 records)
+│   └── WA_FnUseC_AccountsReceivable.csv  # Source data (2,466 records)
 └── README.md
 
 ## 📈 Dashboards Created
@@ -120,6 +121,7 @@ Open the Tableau workbook to explore dashboards
 👤 Author
 Ishitha Nanda Kumar
 
+Tableau Dashboard in Tableau Public: https://public.tableau.com/views/OptimizingUtilityAccountsReceivableACashFlowAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 LinkedIn: https://www.linkedin.com/in/-nandakumarishitha/
 
 📄 License

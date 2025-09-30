@@ -20,6 +20,7 @@ A data analytics project analyzing accounts receivable data to identify and solv
 - **Analysis**: Customer segmentation, risk scoring, trend analysis
 
 ## 📁 Project Structure
+,,,
 
 ├── sql/
 │   ├── 01_setup.sql                 # Database, warehouse, schema creation
@@ -34,6 +35,7 @@ A data analytics project analyzing accounts receivable data to identify and solv
 │   └── WA_FnUseC_AccountsReceivable.csv  # Source data (2,466 records)
 └── README.md
 
+,,,
 ## 📈 Dashboards Created
 
 ### 1. Executive Summary
